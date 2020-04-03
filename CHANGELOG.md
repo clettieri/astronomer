@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file. For more detail on notable features and changes, refer to our [Release Notes](https://www.astronomer.io/docs/release-notes/).
 
+## [0.13.0] - 2020-04-XX
+- Migrate to prisma2 (Note: old prisma now prisma1 and new prisma 2 has name prisma)
+
 ## [0.12.1] - 2020-03-19
 - New banner in the Deployment Config page that tells trial users they can't touch configs until they upgrade (Cloud only)
 - Limit resource allocation for trials (Cloud only)
